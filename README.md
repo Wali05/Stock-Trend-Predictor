@@ -1,9 +1,8 @@
 # Stock Price Predictor & Trend Analysis
 
-A powerful stock prediction web app that utilizes historical data and machine learning to forecast future stock prices. The app is built using Streamlit and leverages an LSTM model for accurate predictions. The interface is designed to be intuitive and user-friendly, similar to Angel Broking's platform, with options to switch between light and dark modes.
+A powerful stock prediction web app that utilizes historical data and machine learning to forecast future stock prices. The app is built using Streamlit and leverages an LSTM model for accurate predictions. The interface is designed to be intuitive and user-friendly.
 
 ## Features
-- **Current Price Display**: Shows the current stock price in Indian Rupees (INR).
 - **Price Forecasts**: Provides expected stock prices for the next week, month, and year.
 - **Interactive Visualization**: Displays stock price trends with moving averages (100-day and 200-day) to help with technical analysis.
 - **Data Analysis**: Comprehensive statistics about the stock data, including key metrics and historical performance.
