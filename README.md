@@ -18,7 +18,7 @@ A powerful stock prediction web app that utilizes historical data and machine le
 
 ## How to Use
 1. **Clone the Repository**:
-   git clone https://github.com/your-username/stock-price-predictor.git
+   git clone https://github.com/Wali05/stock-price-predictor.git
    
 2. Install Required Packages: Make sure you have Python installed. Then, navigate to the project directory and install the dependencies using:   
    pip install -r requirements.txt
