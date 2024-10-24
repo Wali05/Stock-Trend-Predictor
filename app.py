@@ -8,7 +8,7 @@ import streamlit as st
 
 
 start_date = '2010-01-01'
-end_date = '2030-01-01'
+end_date = '2024-01-01'
 
 st.title('Stock Trend Prediction')
 
